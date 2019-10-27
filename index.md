@@ -1,8 +1,18 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/siggisigg/ssigurdsson/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Education
+  ### TU Delft Msc
+  Second year of a dual degree 2019-2020
+  ### TU Berlin Msc
+  - First year of the dual degree 2018-2019
+  - Worked as a Research assistant for one semester
+  ### Reykjavik University Bsc
+  - Mechanical engieering
+  - Graduated June 2016
+  - one year exchange to Universidad Carlos III in Madrid
+  ###  Commercial Collage of Iceland 
+  
+## Work Experince
+  ### Mechanical Designer at Marel
+  ### Construction 
 
 ### Markdown
 
