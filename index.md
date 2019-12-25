@@ -1,5 +1,4 @@
 # Education
-Placeholdertext
 
 ## TU Delft Msc
 2019-2020
