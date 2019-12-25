@@ -695,6 +695,14 @@ h1 span {
 .main_creativity{
     margin:200px auto;
 }
+/*creativity section css*/
+.cosse{
+    background: url(../images/creativitybg.jpg) no-repeat top center;
+    background-size: cover;
+}
+.main_cosse{
+    margin:200px auto;
+}
 /*main_portfolio_content_area*/
 
 
