@@ -309,7 +309,7 @@ Separator
     height: 2px;
     width: 30px;
     margin:20px auto;
-    background: #5e9a28;
+    background: #222222;
 }
 .separator4 {
     height: 2px;
@@ -695,6 +695,7 @@ h1 span {
 .main_creativity{
     margin:200px auto;
 }
+
 /*creativity section css*/
 .cosse{
     background: url(../images/wideberlin.jpg) no-repeat top center;
@@ -703,9 +704,26 @@ h1 span {
 .main_cosse{
     margin:200px auto;
 }
+
+/*marel section css*/
+.marel{
+    background: url(../images/Icescape.jpg) no-repeat top center;
+    background-size: cover;
+}
+.main_marel{
+    margin:200px auto;
+}
+
+/*marel section css*/
+.ru{
+    background: url(../images/Summer.jpg) no-repeat top center;
+    background-size: cover;
+}
+.main_ru{
+    margin:200px auto;
+}
+
 /*main_portfolio_content_area*/
-
-
 
 .main_mixi_content{
     max-height: 900px;
