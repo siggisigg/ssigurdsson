@@ -519,7 +519,7 @@ h1 span {
 
 /*home section*/
 .home{
-    background: url(../images/homebg.jpg) no-repeat 100% 100%;
+    background: url(../images/MAINCover.jpg) no-repeat 100% 100%;
     background-size: cover;
     position: relative;
 }
@@ -698,7 +698,7 @@ h1 span {
 
 /*creativity section css*/
 .cosse{
-    background: url(../images/wideberlin.jpg) no-repeat top center;
+    background: url(../images/Castles.png) no-repeat top center;
     background-size: cover;
 }
 .main_cosse{
